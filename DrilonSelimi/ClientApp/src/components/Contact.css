@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@800&display=swap');
+
+.contact {
+    position: relative;
+    margin-top: 30px;
+    height: 500px;
+    width: 100%;
+    background-color: #e2e4e9;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .5);  
+}
+.contact>h2{
+    padding-top: 30px;
+    font-size: 36px;
+    text-align: center;
+    color: #ff573f;
+    font-family: 'PT Sans', sans-serif;
+    letter-spacing: 1px;
+}
+
+.contact_email_phone{
+    padding-top: 30px;
+    padding-left: 80px;
+}
+.contact_email_phone>ul>li{
+    margin-bottom: 30px;
+    display: flex;
+}
+.contact_email_phone>ul>li>p{
+    margin-left: 20px;
+    margin-top: 7px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.contact_lin_fb_ig>p {
+    margin-top: 90px;
+    display: flex;
+    padding-inline: 120px;
+    justify-content: space-between;
+}

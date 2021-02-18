@@ -1,0 +1,9 @@
+.resume_image{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 5%;
+    width: 90%;
+    padding: 3px;
+    border: solid 2px;
+    border-radius: 5px;    
+}

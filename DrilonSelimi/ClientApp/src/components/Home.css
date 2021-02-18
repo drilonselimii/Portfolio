@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap');
+.home {
+    display: flex;
+    justify-content: space-between;
+}
+.home_image {
+    margin-top: 40px;
+    margin-right: -10px;
+    float: right;
+    width: 630px;
+    height: 450px;
+    border-radius: 10px 60px 10px;
+}
+
+.home_text{
+    margin-top: 120px;
+    margin-left: -10px;
+    height: 300px;
+    width: 42%;
+    padding: 45px 20px;
+    font-family: 'PT Sans', sans-serif;
+    background-color: #e2e4e9;
+    border-radius: 60px 10px 60px;
+}
+
+.home_paragraph {
+    width: 440px;
+}
+

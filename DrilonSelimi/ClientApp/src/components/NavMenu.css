@@ -1,0 +1,18 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+a.navbar-brand {
+    font-size: 30px;    
+    font-family: 'Lobster', cursive;
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    letter-spacing: 1px;
+ 
+}
+
+html { font-size: 14px; }
+
+@media (min-width: 768px) {
+    html { font-size: 16px;}
+}
+
+.box-shadow { box-shadow: 0 1rem 1rem rgba(240, 242, 244, 0.5); }
