@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Portfolio1.webapi\Portfolio.Core\bin\Debug\netcoreapp3.1\Portfolio.Core.deps.json
+C:\Users\Lenovo\source\repos\Portfolio1.webapi\Portfolio.Core\bin\Debug\netcoreapp3.1\Portfolio.Core.dll
+C:\Users\Lenovo\source\repos\Portfolio1.webapi\Portfolio.Core\bin\Debug\netcoreapp3.1\Portfolio.Core.pdb
+C:\Users\Lenovo\source\repos\Portfolio1.webapi\Portfolio.Core\bin\Debug\netcoreapp3.1\Databaza.DB.dll
+C:\Users\Lenovo\source\repos\Portfolio1.webapi\Portfolio.Core\bin\Debug\netcoreapp3.1\Databaza.DB.pdb
+C:\Users\Lenovo\source\repos\Portfolio1.webapi\Portfolio.Core\obj\Debug\netcoreapp3.1\Portfolio.Core.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Portfolio1.webapi\Portfolio.Core\obj\Debug\netcoreapp3.1\Portfolio.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Portfolio1.webapi\Portfolio.Core\obj\Debug\netcoreapp3.1\Portfolio.Core.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Portfolio1.webapi\Portfolio.Core\obj\Debug\netcoreapp3.1\Portfolio.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Portfolio1.webapi\Portfolio.Core\obj\Debug\netcoreapp3.1\Portfolio.Core.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Portfolio1.webapi\Portfolio.Core\obj\Debug\netcoreapp3.1\Portfolio.Core.dll
+C:\Users\Lenovo\source\repos\Portfolio1.webapi\Portfolio.Core\obj\Debug\netcoreapp3.1\Portfolio.Core.pdb

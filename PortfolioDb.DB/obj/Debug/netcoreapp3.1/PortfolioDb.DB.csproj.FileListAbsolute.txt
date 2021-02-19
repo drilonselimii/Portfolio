@@ -1,5 +1,0 @@
-C:\Users\Lenovo\source\repos\Portfolio\PortfolioDb.DB\bin\Debug\netcoreapp3.1\PortfolioDb.DB.deps.json
-C:\Users\Lenovo\source\repos\Portfolio\PortfolioDb.DB\bin\Debug\netcoreapp3.1\PortfolioDb.DB.dll
-C:\Users\Lenovo\source\repos\Portfolio\PortfolioDb.DB\obj\Debug\netcoreapp3.1\PortfolioDb.DB.csprojAssemblyReference.cache
-C:\Users\Lenovo\source\repos\Portfolio\PortfolioDb.DB\obj\Debug\netcoreapp3.1\PortfolioDb.DB.AssemblyInfoInputs.cache
-C:\Users\Lenovo\source\repos\Portfolio\PortfolioDb.DB\obj\Debug\netcoreapp3.1\PortfolioDb.DB.AssemblyInfo.cs
